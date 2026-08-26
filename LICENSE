@@ -1,0 +1,18 @@
+CRYPTOSHARE DEMO EVALUATION LICENSE
+
+Copyright (c) 2026 Fabio De Deo - https://www.ddf.technology/.
+All rights reserved.
+
+Permission is granted to download, install and execute the unmodified CryptoShare Demo binary
+solely for personal or internal evaluation of the software.
+
+No permission is granted to copy or redistribute the package, modify or derive works from it,
+reverse engineer it except where applicable law expressly permits such activity, remove notices,
+offer it as a service, sell it, or use it in production or with critical data.
+
+The Demo accepts inputs up to 1 MiB (1,048,576 bytes). CryptoShare is pre-release software, has
+not undergone an independent security audit and is supplied "as is", without warranties or
+support. The user assumes all risks arising from its installation and use.
+
+Third-party components remain governed by their respective terms.
+

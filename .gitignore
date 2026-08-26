@@ -1,0 +1,7 @@
+*.zip
+*.exe
+*.dll
+*.pem
+key_*.bin
+*.enc
+
