@@ -1,10 +1,18 @@
-# CryptoShare Demo 1.0.0-demo.1
+# CryptoShare Demo 1.0.0-demo.2
 
-First public evaluation build for Windows x64.
+Renewed public evaluation build for Windows x64.
 
-- Package: `CryptoShare-Demo-1.0.0-demo.1-windows-x64.zip`
-- Size: `68,025,651 bytes`
-- SHA-256: `db29bd27eaec14f2e68bdea2bffb0468c9322213943d42df49993b31c1637ca6`
+- Package: `CryptoShare-Demo-1.0.0-demo.2-windows-x64.zip`
+- Size: `68,789,885 bytes`
+- SHA-256: `9895e6709227f6ad932c9cc350d113398af8379e7471dbd21e4c9561b1b3d88c`
+
+## What's new
+
+- completely renewed Windows Presentation Foundation interface;
+- dashboard, navigation, colours, typography and controls redesigned in the style of CodexUsageMonitor;
+- new application icon coordinated with the refreshed visual identity;
+- simplified presentation while preserving the complete CryptoShare workflow;
+- self-contained Windows x64 package: no separate .NET installation is required.
 
 ## Included
 
@@ -12,7 +20,7 @@ First public evaluation build for Windows x64.
 - all-of-N key-share generation;
 - decryption workflow;
 - RSA public-key export, signature verification and encrypted-package inspection;
-- the same navigation and operational interface as CryptoShare Full 1.0.0-rc.1.
+- the same navigation and operational interface as CryptoShare Full 1.0.0-rc.2.
 
 ## Demo limitation
 

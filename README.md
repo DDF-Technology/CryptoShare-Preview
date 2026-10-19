@@ -1,11 +1,15 @@
 # CryptoShare Demo
 
-Public release channel for **CryptoShare Demo 1.0.0-demo.1**, a Windows x64 evaluation build of
-CryptoShare Full **1.0.0-rc.1**.
+Public release channel for **CryptoShare Demo 1.0.0-demo.2**, a Windows x64 evaluation build of
+CryptoShare Full **1.0.0-rc.2**.
 
 CryptoShare encrypts files or folders with AES-GCM, signs data with RSA and divides the AES key into
 an all-of-N set of shares. It also provides decryption, RSA public-key export, signature verification
 and encrypted-package inspection.
+
+Version 1.0.0-demo.2 introduces a completely renewed Windows Presentation Foundation interface,
+with a cleaner dashboard, consistent navigation and a visual language inspired by CodexUsageMonitor.
+The application icon has also been redesigned to match the new interface.
 
 ## Demo limitation
 
@@ -15,7 +19,7 @@ size: one selected file, or the sum of all files in one selected folder, may con
 
 ## Download
 
-Use the [GitHub Releases](https://github.com/DDF-Technology/CryptoShare-Preview/releases) page.
+Download the latest package from [GitHub Releases](https://github.com/DDF-Technology/CryptoShare-Preview/releases/latest).
 The Windows package is unsigned; verify the SHA-256 value shown in the release before running it.
 
 ## Important security notice
@@ -31,10 +35,4 @@ CryptoShare is proprietary software. Copyright © 2026 Fabio De Deo —
 [LICENSE](LICENSE). No source code is published in this repository.
 
 Third-party components and their owners are identified in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-
-## Screenshots
-
-![CryptoShare Demo encryption screen](docs/screenshots/cryptoshare-demo-encrypt.png)
-
-![CryptoShare Demo information screen](docs/screenshots/cryptoshare-demo-about.png)
 
