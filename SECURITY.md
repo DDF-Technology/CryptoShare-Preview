@@ -1,6 +1,6 @@
 # Security notice
 
-CryptoShare Full 1.0.0-rc.2 and Demo 1.0.0-demo.2 are pre-release software without an independent
+CryptoShare Full 1.0.0-rc.3 and Demo 1.0.0-demo.3 are pre-release software without an independent
 cryptographic security audit. Do not use them for production, irreplaceable, regulated or otherwise
 critical data.
 

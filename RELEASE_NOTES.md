@@ -1,12 +1,18 @@
-# CryptoShare Demo 1.0.0-demo.2
+# CryptoShare Demo 1.0.0-demo.3
 
-Renewed public evaluation build for Windows x64.
+Corrective public evaluation build for Windows x64.
 
-- Package: `CryptoShare-Demo-1.0.0-demo.2-windows-x64.zip`
-- Size: `68,789,885 bytes`
-- SHA-256: `9895e6709227f6ad932c9cc350d113398af8379e7471dbd21e4c9561b1b3d88c`
+- Package: `CryptoShare-Demo-1.0.0-demo.3-windows-x64.zip`
+- Size: `68,789,895 bytes`
+- SHA-256: `06cdf1103206c4237ea275528303d985ba85529a7354d3730b00799471897929`
 
-## What's new
+## Fixed
+
+- signature verification no longer accesses WPF controls from a background thread;
+- encrypted-file inspection no longer accesses WPF controls from a background thread;
+- the affected tools can now be used normally after encryption or decryption.
+
+## Interface
 
 - completely renewed Windows Presentation Foundation interface;
 - dashboard, navigation, colours, typography and controls redesigned in the style of CodexUsageMonitor;
@@ -20,7 +26,7 @@ Renewed public evaluation build for Windows x64.
 - all-of-N key-share generation;
 - decryption workflow;
 - RSA public-key export, signature verification and encrypted-package inspection;
-- the same navigation and operational interface as CryptoShare Full 1.0.0-rc.2.
+- the same navigation and operational interface as CryptoShare Full 1.0.0-rc.3.
 
 ## Demo limitation
 

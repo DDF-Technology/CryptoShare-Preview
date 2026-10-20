@@ -1,15 +1,15 @@
 # CryptoShare Demo
 
-Public release channel for **CryptoShare Demo 1.0.0-demo.2**, a Windows x64 evaluation build of
-CryptoShare Full **1.0.0-rc.2**.
+Public release channel for **CryptoShare Demo 1.0.0-demo.3**, a Windows x64 evaluation build of
+CryptoShare Full **1.0.0-rc.3**.
 
 CryptoShare encrypts files or folders with AES-GCM, signs data with RSA and divides the AES key into
 an all-of-N set of shares. It also provides decryption, RSA public-key export, signature verification
 and encrypted-package inspection.
 
-Version 1.0.0-demo.2 introduces a completely renewed Windows Presentation Foundation interface,
-with a cleaner dashboard, consistent navigation and a visual language inspired by CodexUsageMonitor.
-The application icon has also been redesigned to match the new interface.
+Version 1.0.0-demo.3 includes the renewed Windows Presentation Foundation interface inspired by
+CodexUsageMonitor and fixes background-thread access in signature verification and encrypted-file
+inspection. All application workflows can now be used normally after encryption or decryption.
 
 ## Demo limitation
 
